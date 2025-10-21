@@ -50,7 +50,7 @@ protofilio-abdelmoizkadouaoui.vercel.app
 # === Paramètres d'envoi ===
 EMAIL_DELAY_MIN = 20       # délai minimum entre emails (en secondes)
 EMAIL_DELAY_MAX = 40       # délai maximum entre emails
-BATCH_DELAY_MIN = 300      # 5 à 7 minutes entre batchs
+BATCH_DELAY_MIN = 300      # 5 à 7 minutes entre batchs x
 BATCH_DELAY_MAX = 420
 EMAILS_PER_BATCH = 15      # petite pause toutes les 25 pour éviter détection
 
